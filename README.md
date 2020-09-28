@@ -3,13 +3,13 @@ Fetch a given sites robots.txt file from https://web.archive.org/
 
 ## Installation:
 ```shell
-git clone https://github.com/mr-n30/wayback_robots.git
-cd wayback_robots/
+git clone https://github.com/mr-n30/waybackrobots.git
+cd waybackrobots/
 pip install -r requirements.txt
-python wayback_robots.py -h
+python waybackrobots.py -h
 ```
 
 ## Usage:
 ```shell
-$ python wayback_robots.py -t 10 -o output.txt example.com
+$ python waybackrobots.py -t 10 -o output.txt example.com
 ```
