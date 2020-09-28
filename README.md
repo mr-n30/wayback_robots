@@ -1,4 +1,4 @@
-# wayback_robots
+# waybackrobots
 Fetch a given sites robots.txt file from https://web.archive.org/
 
 ## Installation:
