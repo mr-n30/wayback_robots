@@ -1,5 +1,5 @@
 # waybackrobots
-Fetch a given sites robots.txt file from https://web.archive.org/
+Fetch a given sites robots.txt file from [wayback machine](https://web.archive.org/)
 
 ## Installation:
 ```shell
